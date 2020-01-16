@@ -1,0 +1,14 @@
+[submodule "ttf-iosevka"]
+	path = ttf-iosevka
+	url = ./ttf-iosevka
+	ignore = dirty
+[submodule "vim-gruvbox-git"]
+	path = vim-gruvbox-git
+	url = ./vim-airline-gruvbox-git
+[submodule "vim-airline-gruvbox-git"]
+	path = vim-airline-gruvbox-git
+	url = ./vim-airline-gruvbox-git
+[submodule "i3blocks-contrib"]
+	path = i3blocks-contrib
+	url = ./i3blocks-contrib/
+	ignore = dirty
