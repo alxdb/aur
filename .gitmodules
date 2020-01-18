@@ -12,3 +12,7 @@
 	path = i3blocks-contrib
 	url = ./i3blocks-contrib/
 	ignore = dirty
+[submodule "leiningen"]
+	path = leiningen
+	url = https://aur.archlinux.org/leiningen.git
+	ignore = dirty
