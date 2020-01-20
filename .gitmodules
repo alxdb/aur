@@ -4,7 +4,7 @@
 	ignore = dirty
 [submodule "vim-gruvbox-git"]
 	path = vim-gruvbox-git
-	url = https://aur.archlinux.org/vim-airline-gruvbox-git.git
+	url = https://aur.archlinux.org/vim-gruvbox-git.git
 [submodule "vim-airline-gruvbox-git"]
 	path = vim-airline-gruvbox-git
 	url = https://aur.archlinux.org/vim-airline-gruvbox-git.git
