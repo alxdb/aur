@@ -16,3 +16,7 @@
 	path = leiningen
 	url = https://aur.archlinux.org/leiningen.git
 	ignore = dirty
+[submodule "vim-toml-git"]
+	path = vim-toml-git
+	url = https://aur.archlinux.org/vim-toml-git.git
+	ignore = dirty
