@@ -20,3 +20,7 @@
 	path = vim-toml-git
 	url = https://aur.archlinux.org/vim-toml-git.git
 	ignore = dirty
+[submodule "exercism-bin"]
+	path = exercism-bin
+	url = https://aur.archlinux.org/exercism-bin.git
+	ignore = dirty
