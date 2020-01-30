@@ -24,3 +24,6 @@
 	path = exercism-bin
 	url = https://aur.archlinux.org/exercism-bin.git
 	ignore = dirty
+[submodule "otf-jost"]
+	path = otf-jost
+	url = https://aur.archlinux.org/otf-jost.git
