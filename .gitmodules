@@ -27,3 +27,6 @@
 [submodule "otf-jost"]
 	path = otf-jost
 	url = https://aur.archlinux.org/otf-jost.git
+[submodule "bitwig-studio"]
+	path = bitwig-studio
+	url = https://aur.archlinux.org/bitwig-studio.git
