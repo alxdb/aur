@@ -30,3 +30,7 @@
 [submodule "bitwig-studio"]
 	path = bitwig-studio
 	url = https://aur.archlinux.org/bitwig-studio.git
+[submodule "mcg"]
+	path = mcg
+	url = https://aur.archlinux.org/mcg.git
+	ignore = dirty
