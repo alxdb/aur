@@ -38,7 +38,3 @@
 	path = rofi-emoji
 	url = https://aur.archlinux.org/rofi-emoji.git
 	ignore = dirty
-[submodule "vcsh-git"]
-	path = vcsh-git
-	url = https://aur.archlinux.org/vcsh-git.git
-	ignore = dirty
