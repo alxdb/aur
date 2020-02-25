@@ -45,3 +45,6 @@
 [submodule "lightdm-mini-greeter"]
 	path = lightdm-mini-greeter
 	url = ./lightdm-mini-greeter
+[submodule "otf-bodoni"]
+	path = otf-bodoni
+	url = https://aur.archlinux.org/otf-bodoni.git
