@@ -48,3 +48,7 @@
 [submodule "otf-bodoni"]
 	path = otf-bodoni
 	url = https://aur.archlinux.org/otf-bodoni.git
+[submodule "virtualbox-ext-oracle"]
+	path = virtualbox-ext-oracle
+	url = https://aur.archlinux.org/virtualbox-ext-oracle.git
+	ignore = dirty
