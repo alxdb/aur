@@ -52,3 +52,11 @@
 	path = virtualbox-ext-oracle
 	url = https://aur.archlinux.org/virtualbox-ext-oracle.git
 	ignore = dirty
+[submodule "cqlsh"]
+	path = cqlsh
+	url = https://aur.archlinux.org/cqlsh.git
+	ignore = dirty
+[submodule "python2-cassandra-driver-git"]
+	path = python2-cassandra-driver-git
+	url = https://aur.archlinux.org/python2-cassandra-driver-git.git
+	ignore = dirty
