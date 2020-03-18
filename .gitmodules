@@ -60,3 +60,7 @@
 	path = python2-cassandra-driver-git
 	url = https://aur.archlinux.org/python2-cassandra-driver-git.git
 	ignore = dirty
+[submodule "spotify"]
+	path = spotify
+	url = https://aur.archlinux.org/spotify.git
+	ignore = dirty
