@@ -64,3 +64,7 @@
 	path = spotify
 	url = https://aur.archlinux.org/spotify.git
 	ignore = dirty
+[submodule "jstest-gtk-git"]
+	path = jstest-gtk-git
+	url = https://aur.archlinux.org/jstest-gtk-git.git
+	ignore = dirty
