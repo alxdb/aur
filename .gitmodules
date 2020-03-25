@@ -40,11 +40,11 @@
 	ignore = dirty
 [submodule "chromium-widevine"]
 	path = chromium-widevine
-	url = ./chromium-widevine
+	url = https://aur.archlinux.org/chromium-widevine.git
 	ignore = dirty
 [submodule "lightdm-mini-greeter"]
 	path = lightdm-mini-greeter
-	url = ./lightdm-mini-greeter
+	url = https://aur.archlinux.org/lightdm-mini-greeter.git
 [submodule "otf-bodoni"]
 	path = otf-bodoni
 	url = https://aur.archlinux.org/otf-bodoni.git
