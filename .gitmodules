@@ -68,3 +68,7 @@
 	path = jstest-gtk-git
 	url = https://aur.archlinux.org/jstest-gtk-git.git
 	ignore = dirty
+[submodule "vcvrack-bin"]
+	path = vcvrack-bin
+	url = https://aur.archlinux.org/vcvrack-bin.git
+	ignore = dirty
