@@ -72,3 +72,11 @@
 	path = vcvrack-bin
 	url = https://aur.archlinux.org/vcvrack-bin.git
 	ignore = dirty
+[submodule "minecraft-launcher"]
+	path = minecraft-launcher
+	url = https://aur.archlinux.org/minecraft-launcher.git
+	ignore = dirty
+[submodule "gconf"]
+	path = gconf
+	url = https://aur.archlinux.org/gconf.git
+	ignore = dirty
