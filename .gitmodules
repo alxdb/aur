@@ -80,3 +80,7 @@
 	path = gconf
 	url = https://aur.archlinux.org/gconf.git
 	ignore = dirty
+[submodule "foldingathome"]
+	path = foldingathome
+	url = https://aur.archlinux.org/foldingathome.git
+	ignore = dirty
