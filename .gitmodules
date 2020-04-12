@@ -84,3 +84,7 @@
 	path = foldingathome
 	url = https://aur.archlinux.org/foldingathome.git
 	ignore = dirty
+[submodule "haskell-ide-engine-git"]
+	path = haskell-ide-engine-git
+	url = https://aur.archlinux.org/haskell-ide-engine-git.git
+	ignore = dirty
