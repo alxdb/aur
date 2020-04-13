@@ -88,3 +88,7 @@
 	path = haskell-ide-engine-git
 	url = https://aur.archlinux.org/haskell-ide-engine-git.git
 	ignore = dirty
+[submodule "coursier"]
+	path = coursier
+	url = https://aur.archlinux.org/coursier.git
+	ignore = dirty
