@@ -92,3 +92,7 @@
 	path = coursier
 	url = https://aur.archlinux.org/coursier.git
 	ignore = dirty
+[submodule "jetbrains-toolbox"]
+	path = jetbrains-toolbox
+	url = https://aur.archlinux.org/jetbrains-toolbox.git
+	ignore = dirty
