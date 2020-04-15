@@ -96,3 +96,7 @@
 	path = jetbrains-toolbox
 	url = https://aur.archlinux.org/jetbrains-toolbox.git
 	ignore = dirty
+[submodule "purr-data"]
+	path = purr-data
+	url = https://aur.archlinux.org/purr-data.git
+	ignore = dirty
