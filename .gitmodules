@@ -100,3 +100,11 @@
 	path = purr-data
 	url = https://aur.archlinux.org/purr-data.git
 	ignore = dirty
+[submodule "wineasio"]
+	path = wineasio
+	url = https://aur.archlinux.org/wineasio.git
+	ignore = dirty
+[submodule "steinberg-asio"]
+	path = steinberg-asio
+	url = https://aur.archlinux.org/steinberg-asio.git
+	ignore = dirty
