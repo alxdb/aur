@@ -108,3 +108,7 @@
 	path = steinberg-asio
 	url = https://aur.archlinux.org/steinberg-asio.git
 	ignore = dirty
+[submodule "ttk-themes"]
+	path = ttk-themes
+	url = https://aur.archlinux.org/ttk-themes.git
+	ignore = dirty
